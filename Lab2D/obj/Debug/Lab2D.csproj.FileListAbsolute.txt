@@ -1,0 +1,9 @@
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab2D\bin\Debug\employees.txt
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab2D\bin\Debug\Lab2D.exe.config
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab2D\bin\Debug\Lab2D.exe
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab2D\bin\Debug\Lab2D.pdb
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab2D\obj\Debug\Lab2D.csproj.AssemblyReference.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab2D\obj\Debug\Lab2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab2D\obj\Debug\Lab2D.csproj.CoreCompileInputs.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab2D\obj\Debug\Lab2D.exe
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\Lab2D\obj\Debug\Lab2D.pdb
